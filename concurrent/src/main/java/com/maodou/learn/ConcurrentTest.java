@@ -1,4 +1,4 @@
-package com.meituan.concurrent;
+package com.maodou.learn;
 
 /**
  * Created by yangyonghui on 16/11/11.
